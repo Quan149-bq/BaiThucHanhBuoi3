@@ -1,0 +1,12 @@
+Z:\BT2_1\bin\Debug\BT2_1.exe.config
+Z:\BT2_1\bin\Debug\BT2_1.exe
+Z:\BT2_1\bin\Debug\BT2_1.pdb
+Z:\BT2_1\obj\Debug\BT2_1.csproj.AssemblyReference.cache
+Z:\BT2_1\obj\Debug\BT2_1.frmChinh.resources
+Z:\BT2_1\obj\Debug\BT2_1.frmBai1.resources
+Z:\BT2_1\obj\Debug\BT2_1.Properties.Resources.resources
+Z:\BT2_1\obj\Debug\BT2_1.csproj.GenerateResource.cache
+Z:\BT2_1\obj\Debug\BT2_1.csproj.CoreCompileInputs.cache
+Z:\BT2_1\obj\Debug\BT2_1.exe
+Z:\BT2_1\obj\Debug\BT2_1.pdb
+Z:\BT2_1\obj\Debug\BT2_1.frmBai2.resources

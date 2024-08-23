@@ -1,0 +1,10 @@
+Z:\Winform_Buoi3\bin\Debug\Winform_Buoi3.exe.config
+Z:\Winform_Buoi3\bin\Debug\Winform_Buoi3.exe
+Z:\Winform_Buoi3\bin\Debug\Winform_Buoi3.pdb
+Z:\Winform_Buoi3\obj\Debug\BT1.csproj.AssemblyReference.cache
+Z:\Winform_Buoi3\obj\Debug\Winform_Buoi3.Form1.resources
+Z:\Winform_Buoi3\obj\Debug\Winform_Buoi3.Properties.Resources.resources
+Z:\Winform_Buoi3\obj\Debug\BT1.csproj.GenerateResource.cache
+Z:\Winform_Buoi3\obj\Debug\BT1.csproj.CoreCompileInputs.cache
+Z:\Winform_Buoi3\obj\Debug\Winform_Buoi3.exe
+Z:\Winform_Buoi3\obj\Debug\Winform_Buoi3.pdb

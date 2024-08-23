@@ -1,0 +1,10 @@
+Z:\BT2\bin\Debug\BT2.exe.config
+Z:\BT2\bin\Debug\BT2.exe
+Z:\BT2\bin\Debug\BT2.pdb
+Z:\BT2\obj\Debug\BT2.csproj.AssemblyReference.cache
+Z:\BT2\obj\Debug\BT2.Form1.resources
+Z:\BT2\obj\Debug\BT2.Properties.Resources.resources
+Z:\BT2\obj\Debug\BT2.csproj.GenerateResource.cache
+Z:\BT2\obj\Debug\BT2.csproj.CoreCompileInputs.cache
+Z:\BT2\obj\Debug\BT2.exe
+Z:\BT2\obj\Debug\BT2.pdb
